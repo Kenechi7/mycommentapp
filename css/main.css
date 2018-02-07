@@ -1,0 +1,25 @@
+/*Styling to make my comment app nice and neat*/
+input, textarea {
+	min-width: 80%;
+	display: block;
+	margin: 0 auto;
+}
+
+/*I decided to change each color one by one,
+instead of changing them all at the same time,
+because I was bored*/
+h1 {
+	color: gold;
+}
+
+h2 {
+	color: gold;
+}
+
+p{
+	color: gold;
+}
+
+body {
+	background-color: blue;
+}
